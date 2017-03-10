@@ -1,3 +1,4 @@
+cd %LOCALAPPDATA%\atom\bin 
 apm install atom-save-all
 apm install highlight-selected
 apm install linter
